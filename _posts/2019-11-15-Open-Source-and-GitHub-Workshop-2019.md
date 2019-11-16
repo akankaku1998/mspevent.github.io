@@ -37,6 +37,7 @@ ___
 
 # Attenddees List 
 | --- | --- | --- |
+| Nikhil Kumar | nikhil.shakya2010@gmail.com | MCA  
 | shubham| shubham2k15vsics@gmail.com | mca |
 | DILEEP KUMAR | iasbeginner.com@gmail.com | MCA 1st Year
 | MOHD ADIL| adil.ahmad3733@gmail.com| MCA  
