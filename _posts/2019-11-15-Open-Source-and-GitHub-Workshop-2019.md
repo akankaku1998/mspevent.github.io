@@ -39,7 +39,7 @@ ___
 
 | Full Name| Email | Course |
 | --- | --- | --- |
-| XYZ | XYZ.COM| MCA  
+| DILEEP KUMAR | iasbeginner.com@gmail.com | MCA 1st Year
 
 
 
