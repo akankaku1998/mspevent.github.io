@@ -39,7 +39,7 @@ ___
 
 | Full Name| Email | Course |
 | --- | --- | --- |
-| XYZ | XYZ.COM| MCA  
+| Nikhil Kumar | nikhil.shakya2010@gmail.com | MCA  
 
 
 
