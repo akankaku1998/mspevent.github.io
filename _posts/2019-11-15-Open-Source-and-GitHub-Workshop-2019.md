@@ -37,9 +37,13 @@ ___
 
 # Attenddees List 
 
-| Full Name| Email | Course |
+| shubham| shubham2k15vsics@gmail.com | mca |
 | --- | --- | --- |
+
 | MOHD ADIL| adil.ahmad3733@gmail.com| MCA  
+| Shubham Patel | shubhsahab@gmail.com| MCA  
+| Aftab Alam|aftab.knit@gmail.com| MCA  
+
 
 
 
