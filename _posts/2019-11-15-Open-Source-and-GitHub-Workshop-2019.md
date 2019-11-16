@@ -39,7 +39,7 @@ ___
 
 | shubham| shubham2k15vsics@gmail.com | mca |
 | --- | --- | --- |
-| XYZ | XYZ.COM| MCA  
+| Aftab Alam|aftab.knit@gmail.com| MCA  
 
 
 
