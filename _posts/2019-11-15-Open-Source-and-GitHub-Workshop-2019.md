@@ -37,7 +37,7 @@ ___
 
 # Attenddees List 
 
-| Full Name| Email | Course |
+| shubham| shubham2k15vsics@gmail.com | mca |
 | --- | --- | --- |
 | XYZ | XYZ.COM| MCA  
 
