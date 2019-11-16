@@ -37,9 +37,15 @@ ___
 
 # Attenddees List 
 
-| Full Name| Email | Course |
+| shubham| shubham2k15vsics@gmail.com | mca |
 | --- | --- | --- |
 | DILEEP KUMAR | iasbeginner.com@gmail.com | MCA 1st Year
+
+| Shubham Patel | shubhsahab@gmail.com| MCA  
+| Aftab Alam|aftab.knit@gmail.com| MCA  
+
+
+
 
 
 
