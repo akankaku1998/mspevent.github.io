@@ -39,7 +39,7 @@ ___
 
 | Full Name| Email | Course |
 | --- | --- | --- |
-| XYZ | XYZ.COM| MCA  
+| Shubham Patel | shubhsahab@gmail.com| MCA  
 
 
 
