@@ -36,18 +36,11 @@ ___
 
 
 # Attenddees List 
-
-| shubham| shubham2k15vsics@gmail.com | mca |
 | --- | --- | --- |
+| shubham| shubham2k15vsics@gmail.com | mca |
 | DILEEP KUMAR | iasbeginner.com@gmail.com | MCA 1st Year
-
+| MOHD ADIL| adil.ahmad3733@gmail.com| MCA  
 | Shubham Patel | shubhsahab@gmail.com| MCA  
 | Aftab Alam|aftab.knit@gmail.com| MCA  
-
-
-
-
-
-
 
 
