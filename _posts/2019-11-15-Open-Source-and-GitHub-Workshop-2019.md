@@ -39,7 +39,7 @@ ___
 
 | Full Name| Email | Course |
 | --- | --- | --- |
-| XYZ | XYZ.COM| MCA  
+| MOHD ADIL| adil.ahmad3733@gmail.com| MCA  
 
 
 
